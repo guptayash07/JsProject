@@ -33,9 +33,9 @@ function getTotalSupply() {
 }
 
 
-mintNFT("Yash", "Blue", "Hoodie", "Gold Chain");
-mintNFT("Priyanshu", "Blue", "Hoodie", "Gold Chain");
-mintNFT("Anand", "Blue", "Hoodie", "Gold Chain");
-mintNFT("Sachin", "Blue", "Hoodie", "Gold Chain");
+mintNFT("Yash", "Blue", "Hoodie", "Bronze Chain");
+mintNFT("Priyanshu", "Red", "Hoodie", "Silver Chain");
+mintNFT("Anand", "Green", "Hoodie", "Gold Chain");
+mintNFT("Sachin", "Blue", "Hoodie", "Platinum Chain");
 listNFTs();
 getTotalSupply();
